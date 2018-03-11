@@ -1,0 +1,6 @@
+Helle,Larsen,48
+Svend,Christensen,59
+Perter,Andersen,15
+Jonas,Holdt,10
+Michael,Holdt,12
+Laura,Thisen,25
